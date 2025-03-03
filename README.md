@@ -37,8 +37,8 @@ Explore the different directories to find code examples, notes, and other resour
 
 ## Notes and Roadmap
 
-- [OOPs Notes PDF](#) - Comprehensive notes on OOP concepts and practices.
-- [OOPs Roadmap](#) - A structured roadmap to guide your learning journey through OOP.
+- [OOPs Notes PDF](https://drive.google.com/file/d/1_j7guQZdReJ9GzMdFhqRscXq9rnquBya/view?usp=drive_link) - Comprehensive notes on OOP concepts and practices.
+- [OOPs Roadmap](https://youtu.be/wWejXusF9qU?si=s2WZPj-RH8qLCfV9) - A structured roadmap to guide your learning journey through OOP.
 
 ## Contributing
 
